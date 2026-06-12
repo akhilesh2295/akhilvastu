@@ -1,0 +1,10 @@
+# Claude Code / project working files (not part of the website)
+CLAUDE.md
+CHECKLIST.md
+reference_screenshot.png
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
